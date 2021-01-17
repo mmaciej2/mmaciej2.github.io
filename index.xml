@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Maciejewski</title>
+    <link>http://mmaciejewski.com/</link>
+    <description>Recent content on Matt Maciejewski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://mmaciejewski.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://mmaciejewski.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mmaciejewski.com/about/</guid>
+      <description>My name is Matthew Maciejewski and I am currently a PhD student in Electrical &amp;amp; Computer Engineering at Johns Hopkins University in the Center for Speech and Language Processing doing speech processing. My areas of expertise are in deep learning, statistical modeling, and signal processing.
+In particular, I am interested in conversational speech, working with far-field recordings of speech with multiple people talking. Most recently, I have been working on speech separation, the task of producing a single audio waveform for each speaker in a recording where multiple people are speaking at the same time.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://mmaciejewski.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mmaciejewski.com/publications/</guid>
+      <description>work in progress
+M. Maciejewski, J. Shi, S. Watanabe, S. Khudanpur. Training Noisy Single-Channel Speech Separation With Noisy Oracle Sources: A Large Gap and A Small Step. IEEE ICASSP (in review). 2021 [arXiv]
+M. Maciejewski, G. Wichern, E. McQuinn, J. Le Roux. WHAMR!:Noisy and Reverberant Single-Channel Speech Separation. IEEE ICASSP. 2020 [arXiv]</description>
+    </item>
+    
+  </channel>
+</rss>
