@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en" data-theme=""><head>
+    <title> Matthew Maciejewski </title>
+
+    
+    <meta charset="utf-8"><meta name="generator" content="Hugo 0.83.1" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="description" content="researcher specializing in speech technology">
+    
+    <link rel="stylesheet"
+          href="https://www.mmaciejewski.com/css/style.min.cb45dfe6ccf9b3233c817bf2a0c4d9e59d03c2434f4352fe365f78458df688cf.css"
+          integrity="sha256-y0Xf5sz5syM8gXvyoMTZ5Z0DwkNPQ1L&#43;Nl94RY32iM8="
+          crossorigin="anonymous"
+          type="text/css">
+    
+    <link rel="stylesheet"
+        href="https://www.mmaciejewski.com/css/markupHighlight.min.8735c129318a1c824d066fc2cd1e3911054460819c296ac99007aeb5044b6605.css"
+        integrity="sha256-hzXBKTGKHIJNBm/CzR45EQVEYIGcKWrJkAeutQRLZgU="
+        crossorigin="anonymous"
+        type="text/css">
+    
+    <link rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" 
+    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" 
+    crossorigin="anonymous" />
+
+    
+    <link rel="shortcut icon" href="https://www.mmaciejewski.com/favicon/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.mmaciejewski.com/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.mmaciejewski.com/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.mmaciejewski.com/favicon/favicon-16x16.png">
+
+    <link rel="canonical" href="https://www.mmaciejewski.com/">
+
+    
+    <link rel="alternate" type="application/rss+xml" href="https://www.mmaciejewski.com/index.xml" title="Matt Maciejewski" />
+    
+    
+    
+    <script type="text/javascript"
+            src="https://www.mmaciejewski.com/js/anatole-header.min.0c05c0a90d28c968a1cad4fb31abd0b8e1264e788ccefed022ae1d3b6f627514.js"
+            integrity="sha256-DAXAqQ0oyWihytT7MavQuOEmTniMzv7QIq4dO29idRQ="
+            crossorigin="anonymous"></script>
+
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="researcher specializing in speech technology"/>
+
+</head>
+<body><div class="sidebar . ">
+    <div class="logo-title">
+        <div class="title">
+            <img src="https://www.mmaciejewski.com/images/me.jpg" alt="profile picture">
+            <h3 title=""><a href="/">Matt Maciejewski</a></h3>
+            <div class="description">
+                <p>researcher specializing in speech technology</p>
+            </div>
+        </div>
+    </div>
+    <ul class="social-links">
+        
+            <li>
+                <a href="https://www.linkedin.com/in/matthewmaciejewski/" rel="me" aria-label="Linkedin" target="_blank">
+                    <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://github.com/mmaciej2" rel="me" aria-label="GitHub">
+                    <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="mailto:matt@mmaciejewski.com" rel="me" aria-label="e-mail">
+                    <i class="fas fa-envelope fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+    </ul>
+    <div class="footer">
+        <div class="by_farbox">&copy; Matthew Maciejewski  2021 </div>
+    </div>
+</div>
+<div class="main">
+    <div class="page-top  . ">
+    <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+    </a>
+    <ul class="nav" id="navMenu">
+        
+        
+            
+            <li><a class="current"
+                   href="/"
+                        
+                   title="">Home</a></li>
+        
+            
+            <li><a 
+                   href="/publications/"
+                        
+                   title="">Publications</a></li>
+        
+            
+            <li><a 
+                   href="/cv.pdf" target="_blank"
+                        
+                   title="">CV</a></li>
+        
+            
+            <li><a 
+                   href="/about/"
+                        
+                   title="">About</a></li>
+        
+        
+        
+    </ul>
+</div>
+
+    <div class="autopagerize_page_element">
+        <div class="content">
+
+    <div class="post  . ">
+        
+        <p>I am currently a PhD student in Electrical &amp; Computer Engineering at Johns Hopkins University in the Center for Language and Speech Processing, co-advised by Sanjeev Khudanpur and Shinji Watanabe, having attended Carnegie Mellon University for my undergraduate degree. My areas of expertise are in deep learning, statistical modeling, and signal processing. In general, I like to work on waveform-level processing of acoustic signals.</p>
+<p>In particular, I am interested in conversational speech, working with far-field recordings of speech with multiple people talking. Most recently, I have been working on single-channel speech separation, the task of producing a single audio waveform for each speaker in a reocrding where multiple people are speaking simultaneously. However, I am also interested in speaker diarization and speaker identification. I am primarily focused on dealing with noise and reverberation and minimizing their impact on those systems.</p>
+
+    </div>
+
+    
+    
+    <div class="pagination">
+        
+
+
+    </div>
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript"
+        src="https://www.mmaciejewski.com/js/jquery.min.64d0083866906099f942140bc1c5cba4b1bf65783c52e4a63c5c46bf9dbc41f4.js"
+        integrity="sha256-ZNAIOGaQYJn5QhQLwcXLpLG/ZXg8UuSmPFxGv528QfQ="
+        crossorigin="anonymous"></script>
+
+
+
+
+<script type="text/javascript"
+        src="https://www.mmaciejewski.com/js/bundle.min.45159b0e20ba3878972e064b7edc464c31a9e35a0d0a6a71e3fec84efdbe2ea5.js"
+        integrity="sha256-RRWbDiC6OHiXLgZLftxGTDGp41oNCmpx4/7ITv2&#43;LqU="
+        crossorigin="anonymous"></script>
+
+<script type="text/javascript"
+        src="https://www.mmaciejewski.com/js/medium-zoom.min.2d6fd0be87fa98f0c9b4dc2536b312bbca48757f584f6ea1f394abc9bcc38fbc.js"
+        integrity="sha256-LW/Qvof6mPDJtNwlNrMSu8pIdX9YT26h85SrybzDj7w="
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
