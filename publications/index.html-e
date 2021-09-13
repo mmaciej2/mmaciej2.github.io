@@ -3,7 +3,7 @@
     <title> Matthew Maciejewski | Publications </title>
 
     
-    <meta charset="utf-8"><meta name="generator" content="Hugo 0.83.1" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta charset="utf-8"><meta name="generator" content="Hugo 0.88.1" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
     <meta name="description" content="researcher specializing in speech technology">
     
     <link rel="stylesheet"
@@ -44,7 +44,7 @@
     
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Publications"/>
-<meta name="twitter:description" content="2021 M. Maciejewski, S. Watanabe, S. Khudanpur. Speaker Verification-Based Evaluation of Single-Channel Speech Separation. Interspeech (in review). 2021
+<meta name="twitter:description" content="2021 M. Maciejewski, S. Watanabe, S. Khudanpur. Speaker Verification-Based Evaluation of Single-Channel Speech Separation. Interspeech. 2021 [ISCA]
 M. Maciejewski, J. Shi, S. Watanabe, S. Khudanpur. A Dilemma of Ground Truth in Noisy Speech Separation and an Approach to Lessen the Impact of Imperfect Training Data. Computer Speech and Language (in review). 2021
 M. Maciejewski, J. Shi, S. Watanabe, S. Khudanpur. Training Noisy Single-Channel Speech Separation With Noisy Oracle Sources: A Large Gap and A Small Step."/>
 
@@ -134,7 +134,7 @@ M. Maciejewski, J. Shi, S. Watanabe, S. Khudanpur. Training Noisy Single-Channel
             </div>
 
             <h4 id="2021">2021</h4>
-<p><strong>M. Maciejewski</strong>, S. Watanabe, S. Khudanpur. <em>Speaker Verification-Based Evaluation of Single-Channel Speech Separation</em>. Interspeech (in review). 2021</p>
+<p><strong>M. Maciejewski</strong>, S. Watanabe, S. Khudanpur. <em>Speaker Verification-Based Evaluation of Single-Channel Speech Separation</em>. Interspeech. 2021 [<a href="https://www.isca-speech.org/archive/interspeech_2021/maciejewski21_interspeech.html">ISCA</a>]</p>
 <p><strong>M. Maciejewski</strong>, J. Shi, S. Watanabe, S. Khudanpur. <em>A Dilemma of Ground Truth in Noisy Speech Separation and an Approach to Lessen the Impact of Imperfect Training Data</em>. Computer Speech and Language (in review). 2021</p>
 <p><strong>M. Maciejewski</strong>, J. Shi, S. Watanabe, S. Khudanpur. <em>Training Noisy Single-Channel Speech Separation With Noisy Oracle Sources: A Large Gap and A Small Step</em>. IEEE ICASSP. 2021 [<a href="https://arxiv.org/abs/2010.12430">arXiv</a>]</p>
 <h4 id="2020">2020</h4>
@@ -143,8 +143,8 @@ M. Maciejewski, J. Shi, S. Watanabe, S. Khudanpur. Training Noisy Single-Channel
 <h4 id="2019">2019</h4>
 <p><strong>M. Maciejewski</strong>, G. Sell, Y. Fujita, L.P. Garcia-Perera, S. Watanabe, and S. Khudanpur. <em>Analysis of Robustness of Deep Single-Channel Speech Separation Using Corpora Constructed From Multiple Domains</em>. IEEE WASPAA. 2019</p>
 <h4 id="2018">2018</h4>
-<p>N. Kanda, R. Ikeshita, S. Horiguchi, Y. Fujita, K. Nagamatsu, X. Wang, V. Manohar, N.E.Y. Soplin, <strong>M. Maciejewski</strong>, S.J. Chen, A.S. Subramanian, R. Li, Z. Wang, J. Naradowsky, L.P. Garcia-Perera, G. Sell. <em>The Hitachi/JHU CHiME-5 system: Advances in speech recognition for everyday home environments using multiple microphone arrays</em>. Interspeech. 2018 [<a href="https://www.isca-speech.org/archive/CHiME_2018/abstracts/CHiME_2018_paper_kanda.html">ISCA</a>]</p>
-<p>G. Sell, D. Snyder, A. McCree, D. Garcia-Romero, J. Villalba, <strong>M. Maciejewski</strong>, V. Manohar, N. Dehak, D. Povey, S. Watanabe, and S. Khudanpur. <em>Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge</em>. Interspeech. 2018 [<a href="https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1893.html">ISCA</a>]</p>
+<p>N. Kanda, R. Ikeshita, S. Horiguchi, Y. Fujita, K. Nagamatsu, X. Wang, V. Manohar, N.E.Y. Soplin, <strong>M. Maciejewski</strong>, S.J. Chen, A.S. Subramanian, R. Li, Z. Wang, J. Naradowsky, L.P. Garcia-Perera, G. Sell. <em>The Hitachi/JHU CHiME-5 system: Advances in speech recognition for everyday home environments using multiple microphone arrays</em>. Interspeech. 2018 [<a href="https://www.isca-speech.org/archive/chime_2018/kanda18_chime.html">ISCA</a>]</p>
+<p>G. Sell, D. Snyder, A. McCree, D. Garcia-Romero, J. Villalba, <strong>M. Maciejewski</strong>, V. Manohar, N. Dehak, D. Povey, S. Watanabe, and S. Khudanpur. <em>Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge</em>. Interspeech. 2018 [<a href="https://www.isca-speech.org/archive/interspeech_2018/sell18_interspeech.html">ISCA</a>]</p>
 <p><strong>M. Maciejewski</strong>, D. Snyder, V. Manohar, N. Dehak, and S. Khudanpur. <em>Characterizing Performance of Speaker Diarization Systems on Far-field Speech using Standard Methods</em>. IEEE ICASSP. 2018</p>
 <p>N. Ryant, E. Bergelson, K. Church, A. Cristia, J. Du, S. Ganapathy, S. Khudanpur, D. Kowalski, M. Krishnamoorthy, R. Kulshreshta, M. Liberman, Y.D. Lu, <strong>M. Maciejewski</strong>, F. Metze, J. Profant, L. Sun, Y. Tsaok, Z. Yum. <em>Enhancement and Analysis of Conversational Speech: JSALT 2017</em>. IEEE ICASSP. 2018</p>
 <h4 id="2016">2016</h4>
@@ -153,7 +153,7 @@ M. Maciejewski, J. Shi, S. Watanabe, S. Khudanpur. Training Noisy Single-Channel
 <p>H. Hermansky, L. Burget, J. Cohen, E. Dupoux, N. Feldman, J. Godfrey, S. Khudanpur, <strong>M. Maciejewski</strong>, S.H. Mallidi, A. Menon, T. Ogawa, V. Peddinti, R. Rose, R. Stern, M. Wiesner, K. Veselý. <em>Towards machines that know when they do not know: Summary of work done at 2014 Frederick Jelinek Memorial Workshop</em>. IEEE ICASSP. 2015</p>
 <p>H.M. Park, <strong>M. Maciejewski</strong>, C. Kim, R. Stern. <em>Robust automatic speech recognition in reverberation: onset enhancement versus binaural source separation</em>. The Journal of the Acoustical Society of America. 2015</p>
 <h4 id="2014">2014</h4>
-<p>H.M. Park, <strong>M. Maciejewski</strong>, C. Kim, R. Stern. <em>Robust speech recognition in reverberant environments using subband-based steady-state monaural and binaural suppression</em>. Interspeech. 2014 [<a href="https://www.isca-speech.org/archive/interspeech_2014/i14_2715.html">ISCA</a>]</p>
+<p>H.M. Park, <strong>M. Maciejewski</strong>, C. Kim, R. Stern. <em>Robust speech recognition in reverberant environments using subband-based steady-state monaural and binaural suppression</em>. Interspeech. 2014 [<a href="https://www.isca-speech.org/archive/interspeech_2014/park14_interspeech.html">ISCA</a>]</p>
 </div>
         <div class="post-footer">
             <div class="info">
