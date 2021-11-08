@@ -4,7 +4,7 @@
 
     
     <meta charset="utf-8"><meta name="generator" content="Hugo 0.88.1" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-    <meta name="description" content="researcher specializing in speech technology">
+    <meta name="description" content="researcher specializing in speech and audio technology">
     
     <link rel="stylesheet"
           href="https://www.mmaciejewski.com/css/style.min.cb45dfe6ccf9b3233c817bf2a0c4d9e59d03c2434f4352fe365f78458df688cf.css"
@@ -44,9 +44,8 @@
     
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="About"/>
-<meta name="twitter:description" content="I grew up in Colorado, moving to Pittsburgh to attend Carnegie Mellon University for my undergraduate degree, before moving to Baltimore to begin my graduate education at Johns Hopkins University.
-I spend a lot of my time biking around, occasionally taking pictures. While I do enjoy nature a lot, I am particularly into urban environments. Some of my photos can be found on my Instagram here.
-I am a big fan of hockey, following both the Colorado Avalanche and Pittsburgh Penguins, and even play the game myself (albeit very poorly)."/>
+<meta name="twitter:description" content="I grew up in Colorado, moving to Pittsburgh to attend Carnegie Mellon University for my undergraduate degree, before moving to Baltimore to begin my graduate education at Johns Hopkins University. And now, I&rsquo;m in Boston (well, Cambridge).
+I spend a lot of my time biking around, occasionally taking pictures. While I do enjoy nature a lot, I am particularly into urban environments. Some of my photos can be found on my Instagram here."/>
 
 </head>
 <body><div class="sidebar . ">
@@ -55,7 +54,7 @@ I am a big fan of hockey, following both the Colorado Avalanche and Pittsburgh P
             <img src="https://www.mmaciejewski.com/images/me.jpg" alt="profile picture">
             <h3 title=""><a href="/">Matt Maciejewski</a></h3>
             <div class="description">
-                <p>researcher specializing in speech technology</p>
+                <p>researcher specializing in speech and audio technology</p>
             </div>
         </div>
     </div>
@@ -133,7 +132,8 @@ I am a big fan of hockey, following both the Colorado Avalanche and Pittsburgh P
                 
             </div>
 
-            <p>I grew up in Colorado, moving to Pittsburgh to attend Carnegie Mellon University for my undergraduate degree, before moving to Baltimore to begin my graduate education at Johns Hopkins University.</p>
+            <p><img src="/images/bike.jpg" alt="bikin w/ jeff"></p>
+<p>I grew up in Colorado, moving to Pittsburgh to attend Carnegie Mellon University for my undergraduate degree, before moving to Baltimore to begin my graduate education at Johns Hopkins University. And now, I&rsquo;m in Boston (well, Cambridge).</p>
 <p>I spend a lot of my time biking around, occasionally taking pictures. While I do enjoy nature a lot, I am particularly into urban environments. Some of my photos can be found on my Instagram <a href="https://www.instagram.com/mattress_liquidator/">here</a>.</p>
 <p>I am a big fan of hockey, following both the Colorado Avalanche and Pittsburgh Penguins, and even play the game myself (albeit very poorly). I have even been known to set aside rivalries and support the Washington Capitals, in part out of respect for the many great fans I&rsquo;ve met in Baltimore with a great love for the game, despite living in a warm-weather city without a professional hockey team.</p>
 </div>
