@@ -44,8 +44,10 @@
     
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Publications"/>
-<meta name="twitter:description" content="2023 S. Cornell, M. Wiesner, S. Watanabe, D. Raj, X. Chang, P. Garcia, M. Maciejewski, Y. Masuyama, Z.-Q. Wang, S. Squartini, S. Khudanpur. The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios. Proc. CHiME-7. 2023 [arXiv]
-M. Maciejewski, J. Shi, S. Watanabe, S. Khudanpur. A Dilemma of Ground Truth in Noisy Speech Separation and an Approach to Lessen the Impact of Imperfect Training Data. Computer Speech &amp; Language."/>
+<meta name="twitter:description" content="2024 M. Maciejewski, D. Klement, R. Huang, M. Wisner, S. Khudanpur. Evaluating the Santa Barbara Corpus: Challenges of the Breadth of Conversational Spoken Language. Interspeech. 2024 [ISCA]
+D. Raj, M. Wiesner, M. Maciejewski, L.P. Garcia-Perera, D. Povey, S. Khudanpur. On Speaker Attribution with SURT. Odyssey. 2024 [arXiv]
+D. Palzer, M. Maciejewski, E. Fosler-Lussier. Improving Neural Diarization Through Speaker Attribute Attractors and Local Dependency Modeling. IEEE ICASSP. 2024 [IEEE Xplore]
+2023 S."/>
 
 </head>
 <body><div class="sidebar . ">
@@ -80,7 +82,7 @@ M. Maciejewski, J. Shi, S. Watanabe, S. Khudanpur. A Dilemma of Ground Truth in 
         
     </ul>
     <div class="footer">
-        <div class="by_farbox">&copy; Matthew Maciejewski  2023 </div>
+        <div class="by_farbox">&copy; Matthew Maciejewski  2024 </div>
     </div>
 </div>
 <div class="main">
@@ -132,7 +134,11 @@ M. Maciejewski, J. Shi, S. Watanabe, S. Khudanpur. A Dilemma of Ground Truth in 
                 
             </div>
 
-            <h4 id="2023">2023</h4>
+            <h4 id="2024">2024</h4>
+<p><strong>M. Maciejewski</strong>, D. Klement, R. Huang, M. Wisner, S. Khudanpur. <em>Evaluating the Santa Barbara Corpus: Challenges of the Breadth of Conversational Spoken Language</em>. Interspeech. 2024 [<a href="https://ww.isca-speech.org/archive/interspeech_2024/maciejewski24_interspeech.html">ISCA</a>]</p>
+<p>D. Raj, M. Wiesner, <strong>M. Maciejewski</strong>, L.P. Garcia-Perera, D. Povey, S. Khudanpur. <em>On Speaker Attribution with SURT</em>. Odyssey. 2024 [<a href="https://arxiv.org/abs/2401.15676">arXiv</a>]</p>
+<p>D. Palzer, <strong>M. Maciejewski</strong>, E. Fosler-Lussier. <em>Improving Neural Diarization Through Speaker Attribute Attractors and Local Dependency Modeling</em>. IEEE ICASSP. 2024 [<a href="https://ieeexplore.ieee.org/document/10446213">IEEE Xplore</a>]</p>
+<h4 id="2023">2023</h4>
 <p>S. Cornell, M. Wiesner, S. Watanabe, D. Raj, X. Chang, P. Garcia, <strong>M. Maciejewski</strong>, Y. Masuyama, Z.-Q. Wang, S. Squartini, S. Khudanpur. <em>The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios</em>. Proc. CHiME-7. 2023 [<a href="https://arxiv.org/abs/2306.13734">arXiv</a>]</p>
 <p><strong>M. Maciejewski</strong>, J. Shi, S. Watanabe, S. Khudanpur. <em>A Dilemma of Ground Truth in Noisy Speech Separation and an Approach to Lessen the Impact of Imperfect Training Data</em>. Computer Speech &amp; Language. 2023</p>
 <h4 id="2021">2021</h4>
