@@ -4,29 +4,22 @@
     <title>Matt Maciejewski</title>
     <link>https://www.mmaciejewski.com/</link>
     <description>Recent content on Matt Maciejewski</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.mmaciejewski.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.mmaciejewski.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://www.mmaciejewski.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.mmaciejewski.com/about/</guid>
-      <description>I grew up in Colorado, moving to Pittsburgh to attend Carnegie Mellon University for my undergraduate degree, before moving to Baltimore to begin my graduate education at Johns Hopkins University. I spent a few years in Boston while working at Amazon, but was drawn back to the Chesapeake and am currently living in D.C.
-I spend a lot of my time biking around, occasionally taking pictures. While I do enjoy nature a lot, I am particularly into urban environments.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mmaciejewski.com/images/bike.jpg&#34; alt=&#34;bikin w/ jeff&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I grew up in Colorado, moving to Pittsburgh to attend Carnegie Mellon University for my undergraduate degree, before moving to Baltimore to begin my graduate education at Johns Hopkins University. I spent a few years in Boston while working at Amazon, but was drawn back to the Chesapeake and am currently living in D.C.&lt;/p&gt;&#xA;&lt;p&gt;I spend a lot of my time biking around, occasionally taking pictures. While I do enjoy nature a lot, I am particularly into urban environments. Some of my photos can be found on my Instagram &lt;a href=&#34;https://www.instagram.com/mattress_liquidator/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://www.mmaciejewski.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.mmaciejewski.com/publications/</guid>
-      <description>2024 M. Maciejewski, D. Klement, R. Huang, M. Wisner, S. Khudanpur. Evaluating the Santa Barbara Corpus: Challenges of the Breadth of Conversational Spoken Language. Interspeech. 2024 [ISCA]
-D. Raj, M. Wiesner, M. Maciejewski, L.P. Garcia-Perera, D. Povey, S. Khudanpur. On Speaker Attribution with SURT. Odyssey. 2024 [arXiv]
-D. Palzer, M. Maciejewski, E. Fosler-Lussier. Improving Neural Diarization Through Speaker Attribute Attractors and Local Dependency Modeling. IEEE ICASSP. 2024 [IEEE Xplore]
-2023 S.</description>
+      <description>&lt;h4 id=&#34;2026&#34;&gt;2026&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;M. Maciejewski&lt;/strong&gt;, S. Cornell. &lt;em&gt;Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets&lt;/em&gt;. Under Review&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;M. Maciejewski&lt;/strong&gt;, S. Cornell. &lt;em&gt;Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation&lt;/em&gt;. Under Review [&lt;a href=&#34;https://arxiv.org/abs/2604.08415&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;p&gt;D. Klement, &lt;strong&gt;M. Maciejewski&lt;/strong&gt;, S. Khudanpur, J. Černocký, L. Burget. &lt;em&gt;Unsupervised Speech Enhancement using Data-defined Priors&lt;/em&gt;. Under Review [&lt;a href=&#34;https://arxiv.org/abs/2509.22942&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;M. Maciejewski&lt;/strong&gt;. &lt;em&gt;Single-Microphone Audio Point Source Discriminative Localization from Reverberation Late Tail Estimation&lt;/em&gt;. ICASSP. 2026 [&lt;a href=&#34;https://ieeexplore.ieee.org/document/11461520&#34;&gt;IEEE Xplore&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

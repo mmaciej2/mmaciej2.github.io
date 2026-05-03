@@ -3,7 +3,7 @@
     <title> Matthew Maciejewski | Publications </title>
 
     
-    <meta charset="utf-8"><meta name="generator" content="Hugo 0.117.0"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta charset="utf-8"><meta name="generator" content="Hugo 0.161.1"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
     <meta name="description" content="researcher specializing in speech and audio technology">
     
     <link rel="stylesheet"
@@ -13,8 +13,8 @@
           type="text/css">
     
     <link rel="stylesheet"
-        href="https://www.mmaciejewski.com/css/markupHighlight.min.8735c129318a1c824d066fc2cd1e3911054460819c296ac99007aeb5044b6605.css"
-        integrity="sha256-hzXBKTGKHIJNBm/CzR45EQVEYIGcKWrJkAeutQRLZgU="
+        href="https://www.mmaciejewski.com/css/markupHighlight.min.a80ca92edcbf7ed93f4b8432db62956c9aba29df292567b8c553af0fad5acce3.css"
+        integrity="sha256-qAypLty/ftk/S4Qy22KVbJq6Kd8pJWe4xVOvD61azOM="
         crossorigin="anonymous"
         type="text/css">
     
@@ -42,12 +42,13 @@
 
 
     
-    <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Publications"/>
-<meta name="twitter:description" content="2024 M. Maciejewski, D. Klement, R. Huang, M. Wisner, S. Khudanpur. Evaluating the Santa Barbara Corpus: Challenges of the Breadth of Conversational Spoken Language. Interspeech. 2024 [ISCA]
-D. Raj, M. Wiesner, M. Maciejewski, L.P. Garcia-Perera, D. Povey, S. Khudanpur. On Speaker Attribution with SURT. Odyssey. 2024 [arXiv]
-D. Palzer, M. Maciejewski, E. Fosler-Lussier. Improving Neural Diarization Through Speaker Attribute Attractors and Local Dependency Modeling. IEEE ICASSP. 2024 [IEEE Xplore]
-2023 S."/>
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Publications">
+  <meta name="twitter:description" content="2026 M. Maciejewski, S. Cornell. Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets. Under Review
+M. Maciejewski, S. Cornell. Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation. Under Review [arXiv]
+D. Klement, M. Maciejewski, S. Khudanpur, J. Černocký, L. Burget. Unsupervised Speech Enhancement using Data-defined Priors. Under Review [arXiv]
+M. Maciejewski. Single-Microphone Audio Point Source Discriminative Localization from Reverberation Late Tail Estimation. ICASSP. 2026 [IEEE Xplore]">
 
 </head>
 <body><div class="sidebar . ">
@@ -82,7 +83,7 @@ D. Palzer, M. Maciejewski, E. Fosler-Lussier. Improving Neural Diarization Throu
         
     </ul>
     <div class="footer">
-        <div class="by_farbox">&copy; Matthew Maciejewski  2024 </div>
+        <div class="by_farbox">&copy; Matthew Maciejewski  2026 </div>
     </div>
 </div>
 <div class="main">
@@ -134,9 +135,21 @@ D. Palzer, M. Maciejewski, E. Fosler-Lussier. Improving Neural Diarization Throu
                 
             </div>
 
-            <h4 id="2024">2024</h4>
-<p><strong>M. Maciejewski</strong>, D. Klement, R. Huang, M. Wisner, S. Khudanpur. <em>Evaluating the Santa Barbara Corpus: Challenges of the Breadth of Conversational Spoken Language</em>. Interspeech. 2024 [<a href="https://ww.isca-speech.org/archive/interspeech_2024/maciejewski24_interspeech.html">ISCA</a>]</p>
-<p>D. Raj, M. Wiesner, <strong>M. Maciejewski</strong>, L.P. Garcia-Perera, D. Povey, S. Khudanpur. <em>On Speaker Attribution with SURT</em>. Odyssey. 2024 [<a href="https://arxiv.org/abs/2401.15676">arXiv</a>]</p>
+            <h4 id="2026">2026</h4>
+<p><strong>M. Maciejewski</strong>, S. Cornell. <em>Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets</em>. Under Review</p>
+<p><strong>M. Maciejewski</strong>, S. Cornell. <em>Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation</em>. Under Review [<a href="https://arxiv.org/abs/2604.08415">arXiv</a>]</p>
+<p>D. Klement, <strong>M. Maciejewski</strong>, S. Khudanpur, J. Černocký, L. Burget. <em>Unsupervised Speech Enhancement using Data-defined Priors</em>. Under Review [<a href="https://arxiv.org/abs/2509.22942">arXiv</a>]</p>
+<p><strong>M. Maciejewski</strong>. <em>Single-Microphone Audio Point Source Discriminative Localization from Reverberation Late Tail Estimation</em>. ICASSP. 2026 [<a href="https://ieeexplore.ieee.org/document/11461520">IEEE Xplore</a>]</p>
+<p>X. He, A. Polok, J. Villalba, T. Thebaud, <strong>M. Maciejewski</strong>. <em>Scaling Multi-Talker ASR with Speaker-Agnostic Activity Streams</em>. ICASSP. 2026 [<a href="https://arxiv.org/abs/2510.03630">arXiv</a>]</p>
+<p>Z. Huang, <strong>M. Maciejewski</strong>, L.P. Garcia Perera, S. Watanabe, S. Khudanpur. <em>CSPB: Conversational Speech Processing Benchmark for Self-supervised Speech Models</em>. EACL. 2026 [<a href="https://aclanthology.org/2026.eacl-long.275/">ACL</a>]</p>
+<h4 id="2025">2025</h4>
+<p><strong>M. Maciejewski</strong>. <em>Speaker Conditioning of Voice Activity Detection via Implicit Separation</em>. Interspeech. 2025 [<a href="https://www.isca-archive.org/interspeech_2025/maciejewski25_interspeech.html">ISCA</a>]</p>
+<p>D. Palzer, <strong>M. Maciejewski</strong>, E. Fosler-Lussier. <em>End-to-End Diarization utilizing Attractor Deep Clustering</em>. Interspeech. 2025 [<a href="https://www.isca-archive.org/interspeech_2025/palzer25_interspeech.html">ISCA</a>]</p>
+<h4 id="2024">2024</h4>
+<p>A. Polok, D. Klement, J. Han, Š. Sedláček, B. Yusuf, <strong>Matthew Maciejewski</strong>, M. Wiesner, L. Burget. <em>BUT/JHU System Description for CHiME-8 NOTSOFAR-1 Challenge</em> CHiME. 2024 <a href="https://www.isca-archive.org/chime_2024/polok24_chime.html">[ISCA]</a>]</p>
+<p>S. Cornell, T.J. Park, H. Huang, C. Boeddeker, X. Chang, <strong>M. Maciejewski</strong>, M. Wiesner, P. Garcia, S. Watanabe. <em>The CHiME-8 DASR Challenge for Generalizable and Array Agnostic Distant Automatic Speech Recognition and Diarization</em>. CHiME. 2024 [<a href="https://www.isca-archive.org/chime_2024/cornell24_chime.html">ISCA</a>]</p>
+<p><strong>M. Maciejewski</strong>, D. Klement, R. Huang, M. Wisner, S. Khudanpur. <em>Evaluating the Santa Barbara Corpus: Challenges of the Breadth of Conversational Spoken Language</em>. Interspeech. 2024 [<a href="https://www.isca-speech.org/archive/interspeech_2024/maciejewski24_interspeech.html">ISCA</a>]</p>
+<p>D. Raj, M. Wiesner, <strong>M. Maciejewski</strong>, L.P. Garcia-Perera, D. Povey, S. Khudanpur. <em>On Speaker Attribution with SURT</em>. Odyssey. 2024 [<a href="https://www.isca-archive.org/odyssey_2024/raj24_odyssey.html">ISCA</a>]</p>
 <p>D. Palzer, <strong>M. Maciejewski</strong>, E. Fosler-Lussier. <em>Improving Neural Diarization Through Speaker Attribute Attractors and Local Dependency Modeling</em>. IEEE ICASSP. 2024 [<a href="https://ieeexplore.ieee.org/document/10446213">IEEE Xplore</a>]</p>
 <h4 id="2023">2023</h4>
 <p>S. Cornell, M. Wiesner, S. Watanabe, D. Raj, X. Chang, P. Garcia, <strong>M. Maciejewski</strong>, Y. Masuyama, Z.-Q. Wang, S. Squartini, S. Khudanpur. <em>The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios</em>. Proc. CHiME-7. 2023 [<a href="https://arxiv.org/abs/2306.13734">arXiv</a>]</p>
@@ -179,21 +192,21 @@ D. Palzer, M. Maciejewski, E. Fosler-Lussier. Improving Neural Diarization Throu
 </div>
 
 <script type="text/javascript"
-        src="https://www.mmaciejewski.com/js/jquery.min.e80d7e6008943348b2c88cd12f10e546083ff6a88f06b4afac7151b78886417e.js"
-        integrity="sha256-6A1&#43;YAiUM0iyyIzRLxDlRgg/9qiPBrSvrHFRt4iGQX4="
+        src="https://www.mmaciejewski.com/js/jquery.min.21ad544cace1cdad8d2b0acbd2a0f53a4cc73a1ff35720baeb69eac49b083fb8.js"
+        integrity="sha256-Ia1UTKzhza2NKwrL0qD1OkzHOh/zVyC662nqxJsIP7g="
         crossorigin="anonymous"></script>
 
 
 
 
 <script type="text/javascript"
-        src="https://www.mmaciejewski.com/js/bundle.min.3ebad6bf39b2e7c2f899d3ed9bc97e8c0c1ead7a1b57472e3387321f673b8077.js"
-        integrity="sha256-PrrWvzmy58L4mdPtm8l&#43;jAwerXobV0cuM4cyH2c7gHc="
+        src="https://www.mmaciejewski.com/js/bundle.min.e1708c9f2f2ef008d86194c6201839f1be346eb6f6b86ddb53d17973ac3f80cc.js"
+        integrity="sha256-4XCMny8u8AjYYZTGIBg58b40brb2uG3bU9F5c6w/gMw="
         crossorigin="anonymous"></script>
 
 <script type="text/javascript"
-        src="https://www.mmaciejewski.com/js/medium-zoom.min.e1c6918cbaa90022a5612f0bd71c7bf3be6d036614c5729cebfe14f7b91fa4bc.js"
-        integrity="sha256-4caRjLqpACKlYS8L1xx7875tA2YUxXKc6/4U97kfpLw="
+        src="https://www.mmaciejewski.com/js/medium-zoom.min.00f0d88de05977c48e4c08c312d320dafb8f9c17cb793047b360556dac1cac7c.js"
+        integrity="sha256-APDYjeBZd8SOTAjDEtMg2vuPnBfLeTBHs2BVbawcrHw="
         crossorigin="anonymous"></script>
 </body>
 
