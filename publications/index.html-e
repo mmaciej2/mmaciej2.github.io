@@ -48,7 +48,7 @@
   <meta name="twitter:description" content="2026 M. Maciejewski, S. Cornell. Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets. Under Review
 M. Maciejewski, S. Cornell. Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation. Under Review [arXiv]
 D. Klement, M. Maciejewski, S. Khudanpur, J. Černocký, L. Burget. Unsupervised Speech Enhancement using Data-defined Priors. Under Review [arXiv]
-M. Maciejewski. Single-Microphone Audio Point Source Discriminative Localization from Reverberation Late Tail Estimation. ICASSP. 2026 [IEEE Xplore]">
+M. Maciejewski. Single-Microphone Audio Point Source Discriminative Localization from Reverberation Late Tail Estimation. ICASSP. 2026 [arXiv]">
 
 </head>
 <body><div class="sidebar . ">
@@ -139,18 +139,18 @@ M. Maciejewski. Single-Microphone Audio Point Source Discriminative Localization
 <p><strong>M. Maciejewski</strong>, S. Cornell. <em>Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets</em>. Under Review</p>
 <p><strong>M. Maciejewski</strong>, S. Cornell. <em>Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation</em>. Under Review [<a href="https://arxiv.org/abs/2604.08415">arXiv</a>]</p>
 <p>D. Klement, <strong>M. Maciejewski</strong>, S. Khudanpur, J. Černocký, L. Burget. <em>Unsupervised Speech Enhancement using Data-defined Priors</em>. Under Review [<a href="https://arxiv.org/abs/2509.22942">arXiv</a>]</p>
-<p><strong>M. Maciejewski</strong>. <em>Single-Microphone Audio Point Source Discriminative Localization from Reverberation Late Tail Estimation</em>. ICASSP. 2026 [<a href="https://ieeexplore.ieee.org/document/11461520">IEEE Xplore</a>]</p>
+<p><strong>M. Maciejewski</strong>. <em>Single-Microphone Audio Point Source Discriminative Localization from Reverberation Late Tail Estimation</em>. ICASSP. 2026 [<a href="https://arxiv.org/abs/2605.09627">arXiv</a>]</p>
 <p>X. He, A. Polok, J. Villalba, T. Thebaud, <strong>M. Maciejewski</strong>. <em>Scaling Multi-Talker ASR with Speaker-Agnostic Activity Streams</em>. ICASSP. 2026 [<a href="https://arxiv.org/abs/2510.03630">arXiv</a>]</p>
 <p>Z. Huang, <strong>M. Maciejewski</strong>, L.P. Garcia Perera, S. Watanabe, S. Khudanpur. <em>CSPB: Conversational Speech Processing Benchmark for Self-supervised Speech Models</em>. EACL. 2026 [<a href="https://aclanthology.org/2026.eacl-long.275/">ACL</a>]</p>
 <h4 id="2025">2025</h4>
 <p><strong>M. Maciejewski</strong>. <em>Speaker Conditioning of Voice Activity Detection via Implicit Separation</em>. Interspeech. 2025 [<a href="https://www.isca-archive.org/interspeech_2025/maciejewski25_interspeech.html">ISCA</a>]</p>
 <p>D. Palzer, <strong>M. Maciejewski</strong>, E. Fosler-Lussier. <em>End-to-End Diarization utilizing Attractor Deep Clustering</em>. Interspeech. 2025 [<a href="https://www.isca-archive.org/interspeech_2025/palzer25_interspeech.html">ISCA</a>]</p>
 <h4 id="2024">2024</h4>
-<p>A. Polok, D. Klement, J. Han, Š. Sedláček, B. Yusuf, <strong>Matthew Maciejewski</strong>, M. Wiesner, L. Burget. <em>BUT/JHU System Description for CHiME-8 NOTSOFAR-1 Challenge</em> CHiME. 2024 <a href="https://www.isca-archive.org/chime_2024/polok24_chime.html">[ISCA]</a>]</p>
+<p>A. Polok, D. Klement, J. Han, Š. Sedláček, B. Yusuf, <strong>Matthew Maciejewski</strong>, M. Wiesner, L. Burget. <em>BUT/JHU System Description for CHiME-8 NOTSOFAR-1 Challenge</em> CHiME. 2024 [<a href="https://www.isca-archive.org/chime_2024/polok24_chime.html">ISCA</a>]</p>
 <p>S. Cornell, T.J. Park, H. Huang, C. Boeddeker, X. Chang, <strong>M. Maciejewski</strong>, M. Wiesner, P. Garcia, S. Watanabe. <em>The CHiME-8 DASR Challenge for Generalizable and Array Agnostic Distant Automatic Speech Recognition and Diarization</em>. CHiME. 2024 [<a href="https://www.isca-archive.org/chime_2024/cornell24_chime.html">ISCA</a>]</p>
 <p><strong>M. Maciejewski</strong>, D. Klement, R. Huang, M. Wisner, S. Khudanpur. <em>Evaluating the Santa Barbara Corpus: Challenges of the Breadth of Conversational Spoken Language</em>. Interspeech. 2024 [<a href="https://www.isca-speech.org/archive/interspeech_2024/maciejewski24_interspeech.html">ISCA</a>]</p>
 <p>D. Raj, M. Wiesner, <strong>M. Maciejewski</strong>, L.P. Garcia-Perera, D. Povey, S. Khudanpur. <em>On Speaker Attribution with SURT</em>. Odyssey. 2024 [<a href="https://www.isca-archive.org/odyssey_2024/raj24_odyssey.html">ISCA</a>]</p>
-<p>D. Palzer, <strong>M. Maciejewski</strong>, E. Fosler-Lussier. <em>Improving Neural Diarization Through Speaker Attribute Attractors and Local Dependency Modeling</em>. IEEE ICASSP. 2024 [<a href="https://ieeexplore.ieee.org/document/10446213">IEEE Xplore</a>]</p>
+<p>D. Palzer, <strong>M. Maciejewski</strong>, E. Fosler-Lussier. <em>Improving Neural Diarization Through Speaker Attribute Attractors and Local Dependency Modeling</em>. IEEE ICASSP. 2024 [<a href="https://arxiv.org/abs/2506.05593">arXiv</a>]</p>
 <h4 id="2023">2023</h4>
 <p>S. Cornell, M. Wiesner, S. Watanabe, D. Raj, X. Chang, P. Garcia, <strong>M. Maciejewski</strong>, Y. Masuyama, Z.-Q. Wang, S. Squartini, S. Khudanpur. <em>The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios</em>. Proc. CHiME-7. 2023 [<a href="https://arxiv.org/abs/2306.13734">arXiv</a>]</p>
 <p><strong>M. Maciejewski</strong>, J. Shi, S. Watanabe, S. Khudanpur. <em>A Dilemma of Ground Truth in Noisy Speech Separation and an Approach to Lessen the Impact of Imperfect Training Data</em>. Computer Speech &amp; Language. 2023</p>
