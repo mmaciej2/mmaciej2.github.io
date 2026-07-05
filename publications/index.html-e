@@ -45,10 +45,10 @@
     
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Publications">
-  <meta name="twitter:description" content="2026 M. Maciejewski, S. Cornell. Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets. Under Review
+  <meta name="twitter:description" content="2026 X. Velez, M. Maciejewski, S. Khudanpur. Towards Integrating Dereverberation Into A Neural Audio Codec-Based Processing Chain. Under Review
 M. Maciejewski, S. Cornell. Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation. Under Review [arXiv]
-D. Klement, M. Maciejewski, S. Khudanpur, J. Černocký, L. Burget. Unsupervised Speech Enhancement using Data-defined Priors. Under Review [arXiv]
-M. Maciejewski. Single-Microphone Audio Point Source Discriminative Localization from Reverberation Late Tail Estimation. ICASSP. 2026 [arXiv]">
+D. Klement, M. Maciejewski, S. Khudanpur, J. Černocký, L. Burget. Analysing Adversarial Priors for Data-driven Unsupervised Speech Enhancement. Interspeech. 2026 [ISCA]
+M. Maciejewski, S. Cornell. Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets. IWAENC. 2026 [arXiv]">
 
 </head>
 <body><div class="sidebar . ">
@@ -136,9 +136,10 @@ M. Maciejewski. Single-Microphone Audio Point Source Discriminative Localization
             </div>
 
             <h4 id="2026">2026</h4>
-<p><strong>M. Maciejewski</strong>, S. Cornell. <em>Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets</em>. Under Review</p>
+<p>X. Velez, <strong>M. Maciejewski</strong>, S. Khudanpur. <em>Towards Integrating Dereverberation Into A Neural Audio Codec-Based Processing Chain</em>. Under Review</p>
 <p><strong>M. Maciejewski</strong>, S. Cornell. <em>Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation</em>. Under Review [<a href="https://arxiv.org/abs/2604.08415">arXiv</a>]</p>
-<p>D. Klement, <strong>M. Maciejewski</strong>, S. Khudanpur, J. Černocký, L. Burget. <em>Unsupervised Speech Enhancement using Data-defined Priors</em>. Under Review [<a href="https://arxiv.org/abs/2509.22942">arXiv</a>]</p>
+<p>D. Klement, <strong>M. Maciejewski</strong>, S. Khudanpur, J. Černocký, L. Burget. <em>Analysing Adversarial Priors for Data-driven Unsupervised Speech Enhancement</em>. Interspeech. 2026 [<a href="https://www.isca-speech.org/archive/interspeech_2026/klement26_interspeech.html">ISCA</a>]</p>
+<p><strong>M. Maciejewski</strong>, S. Cornell. <em>Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets</em>. IWAENC. 2026 [<a href="https://arxiv.org/abs/2606.02327">arXiv</a>]</p>
 <p><strong>M. Maciejewski</strong>. <em>Single-Microphone Audio Point Source Discriminative Localization from Reverberation Late Tail Estimation</em>. ICASSP. 2026 [<a href="https://arxiv.org/abs/2605.09627">arXiv</a>]</p>
 <p>X. He, A. Polok, J. Villalba, T. Thebaud, <strong>M. Maciejewski</strong>. <em>Scaling Multi-Talker ASR with Speaker-Agnostic Activity Streams</em>. ICASSP. 2026 [<a href="https://arxiv.org/abs/2510.03630">arXiv</a>]</p>
 <p>Z. Huang, <strong>M. Maciejewski</strong>, L.P. Garcia Perera, S. Watanabe, S. Khudanpur. <em>CSPB: Conversational Speech Processing Benchmark for Self-supervised Speech Models</em>. EACL. 2026 [<a href="https://aclanthology.org/2026.eacl-long.275/">ACL</a>]</p>
