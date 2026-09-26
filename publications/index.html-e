@@ -45,10 +45,9 @@
     
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Publications">
-  <meta name="twitter:description" content="2026 S. Cornell, M. Maciejewski, SNOAR: Self-Training with Noise Filtering, Observation Adding, and Remixing for Speech Denoising without Clean References. Under review
+  <meta name="twitter:description" content="2027 S. Cornell, M. Maciejewski, SNOAR: Self-Training with Noise Filtering, Observation Adding, and Remixing for Speech Denoising without Clean References. Under review
 X. Velez, M. Maciejewski, S. Khudanpur. Towards Integrating Dereverberation Into A Neural Audio Codec-Based Processing Chain. Under Review
-M. Maciejewski, S. Cornell. Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation. SLT. 2026 [arXiv]
-D. Klement, M. Maciejewski, S. Khudanpur, J. Černocký, L. Burget. Analysing Adversarial Priors for Data-driven Unsupervised Speech Enhancement. Interspeech. 2026 [ISCA]">
+R. Kriz, D. Etter, A. Martin, C. Carpenter, D. Chakraborty, H. Recknor, R. Iranmanesh, M. Maciejewski, K. Murray, E. Yang, B. Van Durme, A. S. White, A. Yates, W. Walden. MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos. Under review [arXiv]">
 
 </head>
 <body><div class="sidebar . ">
@@ -135,9 +134,11 @@ D. Klement, M. Maciejewski, S. Khudanpur, J. Černocký, L. Burget. Analysing Ad
                 
             </div>
 
-            <h4 id="2026">2026</h4>
+            <h4 id="2027">2027</h4>
 <p>S. Cornell, <strong>M. Maciejewski</strong>, <em>SNOAR: Self-Training with Noise Filtering, Observation Adding, and Remixing for Speech Denoising without Clean References</em>. Under review</p>
 <p>X. Velez, <strong>M. Maciejewski</strong>, S. Khudanpur. <em>Towards Integrating Dereverberation Into A Neural Audio Codec-Based Processing Chain</em>. Under Review</p>
+<p>R. Kriz, D. Etter, A. Martin, C. Carpenter, D. Chakraborty, H. Recknor, R. Iranmanesh, <strong>M. Maciejewski</strong>, K. Murray, E. Yang, B. Van Durme, A. S. White, A. Yates, W. Walden. <em>MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos</em>. Under review [<a href="https://arxiv.org/abs/2609.28437">arXiv</a>]</p>
+<h4 id="2026">2026</h4>
 <p><strong>M. Maciejewski</strong>, S. Cornell. <em>Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation</em>. SLT. 2026 [<a href="https://arxiv.org/abs/2604.08415">arXiv</a>]</p>
 <p>D. Klement, <strong>M. Maciejewski</strong>, S. Khudanpur, J. Černocký, L. Burget. <em>Analysing Adversarial Priors for Data-driven Unsupervised Speech Enhancement</em>. Interspeech. 2026 [<a href="https://www.isca-speech.org/archive/interspeech_2026/klement26_interspeech.html">ISCA</a>]</p>
 <p><strong>M. Maciejewski</strong>, S. Cornell. <em>Exploiting Noise Inseparability for Weakly-Supervised Discriminative Speech Denoising Using Noisy Targets</em>. IWAENC. 2026 [<a href="https://arxiv.org/abs/2606.02327">arXiv</a>]</p>
