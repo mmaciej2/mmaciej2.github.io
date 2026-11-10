@@ -45,7 +45,7 @@
     
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Publications">
-  <meta name="twitter:description" content="2027 S. Cornell, M. Maciejewski, SNOAR: Self-Training with Noise Filtering, Observation Adding, and Remixing for Speech Denoising without Clean References. Under review
+  <meta name="twitter:description" content="2027 S. Cornell, M. Maciejewski, SNOAR: Self-Training with Noise Filtering, Observation Adding, and Remixing for Speech Denoising without Clean References. Under review [arXiv]
 X. Velez, M. Maciejewski, S. Khudanpur. Towards Integrating Dereverberation Into A Neural Audio Codec-Based Processing Chain. Under Review
 R. Kriz, D. Etter, A. Martin, C. Carpenter, D. Chakraborty, H. Recknor, R. Iranmanesh, M. Maciejewski, K. Murray, E. Yang, B. Van Durme, A. S. White, A. Yates, W. Walden. MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos. Under review [arXiv]">
 
@@ -135,7 +135,7 @@ R. Kriz, D. Etter, A. Martin, C. Carpenter, D. Chakraborty, H. Recknor, R. Iranm
             </div>
 
             <h4 id="2027">2027</h4>
-<p>S. Cornell, <strong>M. Maciejewski</strong>, <em>SNOAR: Self-Training with Noise Filtering, Observation Adding, and Remixing for Speech Denoising without Clean References</em>. Under review</p>
+<p>S. Cornell, <strong>M. Maciejewski</strong>, <em>SNOAR: Self-Training with Noise Filtering, Observation Adding, and Remixing for Speech Denoising without Clean References</em>. Under review [<a href="https://arxiv.org/abs/2610.20863">arXiv</a>]</p>
 <p>X. Velez, <strong>M. Maciejewski</strong>, S. Khudanpur. <em>Towards Integrating Dereverberation Into A Neural Audio Codec-Based Processing Chain</em>. Under Review</p>
 <p>R. Kriz, D. Etter, A. Martin, C. Carpenter, D. Chakraborty, H. Recknor, R. Iranmanesh, <strong>M. Maciejewski</strong>, K. Murray, E. Yang, B. Van Durme, A. S. White, A. Yates, W. Walden. <em>MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos</em>. Under review [<a href="https://arxiv.org/abs/2609.28437">arXiv</a>]</p>
 <h4 id="2026">2026</h4>
